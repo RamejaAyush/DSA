@@ -31,5 +31,5 @@ const reverse = (head) => {
 }
 
 printList(linkedList)
-console.log("after reverse")
-printList(reverse(linkedList))
+// console.log("after reverse")
+// printList(reverse(linkedList))
